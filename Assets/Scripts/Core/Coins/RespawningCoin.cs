@@ -30,7 +30,6 @@ public class RespawningCoin : Coin
         if (alreadyCollected) { return 0; }
 
         alreadyCollected = true;
-
         OnCollected?.Invoke(this);
 
         return coinValue;
