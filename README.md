@@ -14,6 +14,6 @@ W , S -> mowing forward and backward
 mouse button 1 -> fire   
 # In-game Screenshots  
 ![alt text](https://github.com/ilya-nuhi/Tanks-Multiplayer/blob/main/tanks_multiplayer_tn.png?raw=true)  
-You can play the game via below links:   
-
+You can download the game for windows and play it via below link:   
+https://ilya-nuhi.itch.io/tanks-multiplayer  
 
